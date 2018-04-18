@@ -3,7 +3,7 @@
 - company: KKBOX
   position: Engineer
   duration: Jan, 2013 &mdash; Feb, 2017
-  summary: "My work in KKBOX Group can be divided into three periods:"
+  summary: "My work in KKBOX Group can be divided into three periods:
   <ul class="resume-item-list">
     <li>KKStream
       <ul class="resume-item-list">
@@ -27,4 +27,4 @@
         <li>Working in both frontend and backend</li>
       </ul>
     </li>
-  </ul>
+  </ul>"
