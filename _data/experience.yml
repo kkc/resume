@@ -1,6 +1,15 @@
 # Jobs
-# KKBOX
-- company: KKBOX
+# Umbo Computer Vision
+- company: Umbo Computer Vision
+  position: Hacker
+  duration: Mar, 2017 &mdash; Present
+  summary: 
+    <ul class="resume-item-list">
+      <li>Backend and infrastructure operation</li>
+    </ul>
+
+# KKBOX Group
+- company: KKBOX Group
   position: Engineer
   duration: Jan, 2013 &mdash; Feb, 2017
   summary: "My work in KKBOX Group can be divided into three periods:
@@ -21,7 +30,7 @@
         <li>Have experience in mobile analytics and payment service</li>
       </ul>
     </li>
-    <li>New Product Development
+    <li>KKBOX, New Product Development
       <ul class=\"resume-item-list\">
         <li>POC making and prototyping</li>
         <li>Working in both frontend and backend</li>
