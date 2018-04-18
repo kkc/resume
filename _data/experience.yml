@@ -1,0 +1,30 @@
+# Jobs
+# KKBOX
+- company: KKBOX
+  position: Engineer
+  duration: Jan, 2013 &mdash; Feb, 2017
+  summary: "My work in KKBOX Group can be divided into three periods:"
+  <ul class="resume-item-list">
+    <li>KKStream
+      <ul class="resume-item-list">
+        <li>B2B video/audio streaming service provider</li>
+        <li>Working as frontend developer</li>
+        <li>Using JavaScript under specified framework on special devices</li>
+        <li>Running Scrum as project management flow and serves as Certified ScrumMaster in the team</li>
+      </ul>
+    </li>
+    <li>KKPLAY
+      <ul class="resume-item-list">
+        <li>Mobile game DevOps, designing the whole architecture</li>
+        <li>Using PHP for API, MySQL for DB, and AWS as cloud architecture</li>
+        <li>Leading 2 people as backend team lead</li>
+        <li>Have experience in mobile analytics and payment service</li>
+      </ul>
+    </li>
+    <li>New Product Development
+      <ul class="resume-item-list">
+        <li>POC making and prototyping</li>
+        <li>Working in both frontend and backend</li>
+      </ul>
+    </li>
+  </ul>

@@ -14,6 +14,7 @@ resume_name:                    "Allan Sun"
 resume_title:                   "Developer"
 resume_contact_email:
   "allan914+resume[-AT-]gmail.com"
+resume_header_intro: "<p>I am a full-stack developer using mainly PHP &amp; MySQL for backend API development and JavaScript for frontend development. I also design and maintain cloud architecture on AWS and have experience with Unix server operation. I like to learn new things, do challenging job and meet new people.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
