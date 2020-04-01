@@ -1,6 +1,6 @@
 # Site settings
-title: "Allan Sun's Resume"
-description: "Resume of Allan Sun, a developer in Taiwan"
+title: "Kakashi Liu's Resume"
+description: "Resume of Kakashi Liu, an Site Reliability Engineer in Taiwan"
 
 # Build settings
 markdown: kramdown
@@ -9,18 +9,18 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Allan Sun"
-resume_title:                   "Developer"
-resume_contact_email:
-  "allan914+resume[-AT-]gmail.com"
-resume_header_intro: "<p>I am a full-stack developer using mainly PHP &amp; MySQL for backend API development and JavaScript for frontend development. I also design and maintain cloud architecture on AWS and have experience with Unix server operation. I like to learn new things, do challenging job and meet new people.</p>"
+resume_avatar:                  "false"
+resume_name:                    "ChunCheng Liu"
+resume_title:                   "Site Reliability Engineer"
+#resume_contact_email:
+#  "kakashi1000+resume[-AT-]gmail.com"
+resume_header_intro: "<p>I now work as a site reliability engineer with strong experienced managing cloud infrastructure. I am also a passionate developer using Python, Javascript, and Golang to build backend API services and automation tools. Highly interested in effectively building and optimizing infrastructure to achieve reliability and performance."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        ""
 
 # Decide which sections to use
 # comment out to hide
@@ -35,13 +35,13 @@ resume_section_skills:          true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/allan914"
-  resume_twitter_url:           "https://twitter.com/allan914"
+  resume_github_url:            "https://github.com/kkc"
+  resume_twitter_url:           "https://twitter.com/kakashiliu"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/allan914"
-  resume_linkedin_url:          "https://www.linkedin.com/in/allan914"
+  resume_facebook_url:          "https://www.facebook.com/kkcliu"
+  resume_linkedin_url:          "https://www.linkedin.com/in/kkcliu"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://blog.cssuen.tw/"
+  resume_website_url:           "https://kkc.github.io/"
 
 # Design settings
 resume_theme:                   default

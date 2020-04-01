@@ -1,39 +1,52 @@
 # Jobs
 # Umbo Computer Vision
 - company: Umbo Computer Vision
-  position: Hacker
-  duration: Mar, 2017 &mdash; Present
-  summary: 
-    <ul class="resume-item-list">
-      <li>Backend and infrastructure operation</li>
-    </ul>
+  position: Infra Lead / Site Reliability Engineer
+  duration: Dec, 2017 &mdash; Present
+  summary:
+    "Mainly focus on continually improving reliability and maintainability of Umbo CV services
+    <ul class=\"resume-item-list\">
+        <li> Led 8 people to achieve ISO27001 certificate within 3 months.</li>
+        <li> Revamped the on-call process and share the on-call rotation.</li>
+        <li> Developed Monitoring mechanism by prometheus and ELK stack.</li>
+        <li> Adopted Kubernetes technology to improve service utilization and reliability.</li>
+        <li> Established the service onboarding process and troubleshooting guides for applications. </li>
+        <li> Mentored members on cloud architecture knowledge including security and reliability.</li>
+    </ul>"
 
-# KKBOX Group
-- company: KKBOX Group
-  position: Engineer
-  duration: Jan, 2013 &mdash; Feb, 2017
-  summary: "My work in KKBOX Group can be divided into three periods:
+- company: Umbo Computer Vision
+  position: Hacker
+  duration: Aug, 2015 &mdash; Dec, 2017
+  summary: "Mainly worked on backend and infrastructure operation
+    <ul class=\"resume-item-list\">
+        <li> Designed system architecture by leveraging AWS components including VPC, EC2, ELB, Route53, and Cloudwatch. </li>
+        <li> Planned and wrote the core backend API server based on NodeJS and MongoDB.</li>
+        <li> Drove a 20% decrease in server downtime by revising monitoring/alerting systems. </li>
+        <li> Improved the CI/CD flow by adopting Jenkins and Docker. </li>
+    </ul>"
+
+- company: Gogolook Co., Ltd
+  position: DevOps/Python Developer
+  duration: Nov, 2013 &mdash; Aug, 2015
+  summary: "UNIX / Linux Administrator, DevOps, Python Developer, Testing Automation,
+  particularly interested in system performance improvement and cloud computing.
+
+      <ul class=\"resume-item-list\">
+         <li> Re-organized an API server architecture to make it 4x faster.</li>
+         <li> Optimized MongoDB query and EBS type to save 50% of total cost. (around 200k USD/year)</li>
+         <li> Made a plan to purchase AWS reserve instance to save 20% cost of our services.</li>
+         <li> Improved Python SQS worker performance 2x faster.</li>
+         <li> Designed a crawler system crawling data incrementally, which increases 20 million useful data.</li>
+         <li> On-call duty for maintaining 24/7 services.</li>
+      </ul>
+  "
+
+- company: TSMC
+  position: Backend Engineer of Digital IC Design
+  duration: Oct, 2010 &mdash; Sep, 2013
+  summary: "
   <ul class=\"resume-item-list\">
-    <li>KKStream
-      <ul class=\"resume-item-list\">
-        <li>B2B video/audio streaming service provider</li>
-        <li>Working as frontend developer</li>
-        <li>Using JavaScript under specified framework on special devices</li>
-        <li>Running Scrum as project management flow and serves as Certified ScrumMaster in the team</li>
-      </ul>
-    </li>
-    <li>KKPLAY
-      <ul class=\"resume-item-list\">
-        <li>Mobile game DevOps, designing the whole architecture</li>
-        <li>Using PHP for API, MySQL for DB, and AWS as cloud architecture</li>
-        <li>Leading 2 people as backend team lead</li>
-        <li>Have experience in mobile analytics and payment service</li>
-      </ul>
-    </li>
-    <li>KKBOX, New Product Development
-      <ul class=\"resume-item-list\">
-        <li>POC making and prototyping</li>
-        <li>Working in both frontend and backend</li>
-      </ul>
-    </li>
-  </ul>"
+    <li> Familiar with Place & Route tool including icc and encounter. </li>
+    <li> Successful tapeout experiences (including 3D IC) </li>
+  </ul>
+  "
