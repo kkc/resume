@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "ChunCheng Liu"
-resume_title:                   "Site Reliability Engineer"
+#resume_title:                   "Site Reliability Engineer"
 #resume_contact_email:
 #  "kakashi1000+resume[-AT-]gmail.com"
-resume_header_intro: "<p>I now work as a site reliability engineer with strong experienced managing cloud infrastructure. I am also a passionate developer using Python, Javascript, and Golang to build backend API services and automation tools. Highly interested in effectively building and optimizing infrastructure to achieve reliability and performance."
+#resume_header_intro: "<p>I now work as a site reliability engineer with strong experienced managing cloud infrastructure. I am also a passionate developer using Python, Javascript, and Golang to build backend API services and automation tools. Highly interested in effectively building and optimizing infrastructure to achieve reliable systems"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,15 +30,15 @@ resume_section_education:       true
 resume_section_skills:          true
 #resume_section_recognition:     true
 #resume_section_links:           true
-#resume_section_associations:    true
+resume_section_associations:    true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/kkc"
-  resume_twitter_url:           "https://twitter.com/kakashiliu"
+  #resume_twitter_url:           "https://twitter.com/kakashiliu"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://www.facebook.com/kkcliu"
+  #resume_facebook_url:          "https://www.facebook.com/kkcliu"
   resume_linkedin_url:          "https://www.linkedin.com/in/kkcliu"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://kkc.github.io/"

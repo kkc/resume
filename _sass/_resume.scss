@@ -8,8 +8,8 @@
   margin-bottom: 1.5rem;
 
   h2 {
-    @include sans;
-    font-weight: 900;
+    @include sans_bold;
+    font-weight: 700;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
@@ -54,12 +54,13 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
-      font-size: 1.75rem;
-      line-height: 2rem;
+      font-weight: 700;
+      font-size: 1.5rem;
+      line-height: 1.5rem;
       letter-spacing: -.05rem;
       text-align: center;
-      margin: 0 0 .5rem;
+      margin: 0 0 0rem;
+      float: left;
 
       @include media_larger_than_mobile {
         float: left;
@@ -80,8 +81,9 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
-  padding-top: .4rem;
+  //border-top: 2px solid #c7c7c7;
+  //padding-top: .4rem;
+  float: right;
 
   @include media_larger_than_mobile {
     float: right;

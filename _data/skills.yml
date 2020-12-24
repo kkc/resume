@@ -5,8 +5,8 @@
 
 # AWS
 - skill: Amazon Web Services (AWS)
-  description: Familiar with AWS components such as VPC, EC2, EBS, SQS, SES, Route53, EKS, Cloudwatch and Lambda. I can quickly leverage these building blocks to build a reliability and scalable system.
+  description: VPC, EC2, EBS, SQS, SES, Route53, EKS, Cloudwatch and Lambda. I can quickly leverage these building blocks to establish a reliable and scalable system.
 
 # Other Skills
-- skill: Other Skills
-  description: Unix System Administration, Terraform, Ansible, MongoDB, Redis, MySQL, Elasticsearch, gRPC
+- skill: DevOps and Other Skills
+  description: Linux Administration, Git, Docker, Terraform, Ansible, MongoDB, Redis, MySQL, Elasticsearch, gRPC
